@@ -1,0 +1,34 @@
+{
+  "name": "lightbox-quote-checker",
+  "version": "1.0.0",
+  "description": "Tells you whether the message you want to type will work with the letters and length of the sign.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HellooooNewman/Lightbox-Quote-Checker.git"
+  },
+  "keywords": [
+    "light",
+    "box",
+    "sentence",
+    "checker",
+    "slack",
+    "bot"
+  ],
+  "author": "Kevin Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HellooooNewman/Lightbox-Quote-Checker/issues"
+  },
+  "homepage": "https://github.com/HellooooNewman/Lightbox-Quote-Checker#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ngrok": "^3.2.5",
+    "request": "^2.88.0"
+  }
+}
