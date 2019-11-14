@@ -1,6 +1,8 @@
 # Lightbox Quote Checker
 Tells you whether the message you want to type will work with the letters and length of the sign. Will also allow for substitutions.
 
+![Lightbox](/images/lightbox.jpg)
+
 Integrates into Slack as a bot
 
 Time: 8 hours 
