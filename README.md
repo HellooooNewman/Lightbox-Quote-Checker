@@ -9,10 +9,10 @@ Successful Future at Xello
 ## Features:
 - Text alternatives (3 = E)
 - Character limits = (only 3 E’s)
-- Sentence length check (40 characters
-- Invalid character check (A-Z, 0-9, #&&)
-- Word length check( maximum of 10 letters per word)
-- Too many line breaks in the sentence
+- Sentence length check (40 characters)
+- Invalid character check (A-Z, 0-9, #&@)
+- Word length check(Max 10 letters per word)
+- Too many line breaks in the sentence(Max 3 line breaks)
 - Slack integration
 
 
