@@ -33,6 +33,6 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "ngrok": "^3.2.5",
+    "ngrok": "^3.2.5"
   }
 }
