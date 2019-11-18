@@ -8,6 +8,8 @@ Integrates into Slack as a bot
 Time: 8 hours 
 Successful Future at Xello
 
+[React Demo](https://www.kevinnewman.ca/lightbox-quote-checker/)
+
 ## Features:
 - Text alternatives (3 = E)
 - Character limits = (only 3 E’s)
@@ -39,7 +41,3 @@ Doesn't work
 Original Text: how's this work then? 
 Unsupported characters in quote.
 ```
-
-## Future:
-- Go to website and ask for quote from it and keep checking until one works
-- Build frontend for site
