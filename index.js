@@ -108,7 +108,7 @@ function checkSentence(message) {
         O: ["0"],
         P: [],
         Q: [],
-        R: 3,
+        R: [],
         S: ["S"],
         T: [],
         U: ["C"],
