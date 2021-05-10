@@ -1,10 +1,12 @@
 {
   "name": "lightbox-quote-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tells you whether the message you want to type will work with the letters and length of the sign.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "watch": "nodemon server",
+    "ngrok": "ngrok http 3000 -host-header=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,13 +28,15 @@
   },
   "homepage": "https://github.com/HellooooNewman/Lightbox-Quote-Checker#readme",
   "dependencies": {
+    "@slack/bolt": "^3.3.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "ngrok": "^3.2.5"
+    "ngrok": "^3.2.5",
+    "nodemon": "^2.0.7"
   }
 }
